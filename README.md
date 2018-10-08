@@ -7,5 +7,8 @@ In this time, I would like to have enough knowledge on AI related feilds.
 Add some arrangements on this text, because of the dicrections
 Can't understad well  how I can commit the modification
 Created the new branch in order to make clear the appropriate usage of this service.
+
+Again add some modifications on the text.
+
 Regards,
 Toshi
